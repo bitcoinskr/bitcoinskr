@@ -1,4 +1,4 @@
-**Software Development Project Research: Bitcoin/Ethereum Hard Fork**
+**Software Development Research: Bitcoin Hard Fork**
 ---------------------------
 **3 Main Issues to Tackle**
 - Security
