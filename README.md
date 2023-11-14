@@ -18,6 +18,6 @@ BitcoinSKR is released under the terms of the MIT license. See
 Development Process
 -------------------
 
-Bitcoin Cash Node development takes place at [https://github.com/bitcoinskr/bitcoinskr](https://github.com/bitcoinskr/bitcoinskr)
+BitcoinSKR development takes place at [https://github.com/bitcoinskr/bitcoinskr](https://github.com/bitcoinskr/bitcoinskr)
 
 This Github repository contains only source code of releases.
